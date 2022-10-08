@@ -1,0 +1,9 @@
+Comando:
+
+git init - Esse comando cria um repositório local;
+git status - Esse comando serve para mostrar o branch, commits e arquivos para se adicionado no repositórios;
+git add TutorialGit.txt - Esse comando é usado para adicionar arquivos novos e arquivos modificados;
+
+git commit -m "primeiro commit"
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
