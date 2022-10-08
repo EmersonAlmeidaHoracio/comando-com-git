@@ -7,3 +7,5 @@ git add TutorialGit.txt - Esse comando é usado para adicionar arquivos novos e 
 git commit -m "primeiro commit"
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+
+git log - Esse comando serve para visualizar o histórico de commits; Observação: Cada commit no git é represetado por um hash;
