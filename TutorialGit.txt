@@ -1,4 +1,4 @@
-Comando:
+COMANDO:
 
 git init - Esse comando cria um repositório local;
 git status - Esse comando serve para mostrar o branch, commits e arquivos para se adicionado no repositórios;
@@ -10,3 +10,11 @@ git config --global user.name "Your Name"
 
 git log - Esse comando serve para visualizar o histórico de commits; Observação: Cada commit no git é representado por um hash;
 git diff - Esse comando serve para verificar a diferença que está sendo modificado;
+------------------------------------------------------------------------------------------------------------------------------------
+Para enviar o repositório local para o github vai precisar do seguinte comando
+	git remote add
+	
+mais antes vai precisar vincular o repositório local com o github
+	git branch
+	git push
+------------------------------------------------------------------------------------------------------------------------------------
